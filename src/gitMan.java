@@ -8,5 +8,6 @@ public class gitMan {
         }else {
             System.out.println("not palindrome");
         }
+
     }
 }
